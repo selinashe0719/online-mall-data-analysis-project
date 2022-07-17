@@ -1,6 +1,8 @@
 # online-mall-data-analysis-project
 
 
+This project uses python for data processing and plotly for data visualization.
+
 Through order cancellation ratio analysis and order payment ratio analysis, the proportion of cancelled payment is smaller than the proportion of cancelled orders, so for users who have order information but have not paid, have a relatively strong purchase purpose, may be due to coupons or price and other factors to make them cancel payment, so for this part of the user may be more price sensitive users, the company can push the discount card to stimulate this type of customer consumption.
 
 Through the order price distribution chart can see, more than 80% of the refrigerator price is lower than 4K, check over 70% of the refrigerator price is lower than 2K, so the refrigerator user main consumption price in 2K below, so in the refrigerator advertising promotion, can give priority to the price is lower than 2K refrigerator, this kind of refrigerator has a larger market.
